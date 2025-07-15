@@ -5,7 +5,7 @@ import About from "./components/About"
 import EducationSection from "./components/EducationSection"
 import Footer from "./components/Footer"
 import ProjectSection from "./components/ProjectSection"
-import HireMe from "./components/Hireme"
+import HireMe from "./components/HireMe"
 
 function App() {
   return (
